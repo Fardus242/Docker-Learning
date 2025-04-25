@@ -1,0 +1,1 @@
+The goal for this project was for me to build a multi container application that consists of a simple python web application using a redis database.
