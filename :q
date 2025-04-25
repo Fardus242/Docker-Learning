@@ -1,0 +1,7 @@
+user.email=fardujama02@gmail.com
+
+  git config --global user.name Fardus
+:q!
+[200~config --global user.email fardujama02@gmail.com~
+user.name=Fardus
+credential.helper=store
